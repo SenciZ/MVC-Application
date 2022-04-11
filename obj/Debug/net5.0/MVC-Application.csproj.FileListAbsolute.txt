@@ -354,3 +354,4 @@
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/ref/MVC-Application.dll
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/MVC-Application.pdb
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/MVC-Application.genruntimeconfig.cache
+/Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/Razor/Views/Home/About.cshtml.g.cs
