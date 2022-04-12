@@ -355,3 +355,5 @@
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/MVC-Application.pdb
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/MVC-Application.genruntimeconfig.cache
 /Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/Razor/Views/Home/About.cshtml.g.cs
+/Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/Razor/Views/Movie/Index.cshtml.g.cs
+/Users/senadzenkovic/Desktop/CoderFoundry/MVC-Application/obj/Debug/net5.0/Razor/Views/Movie/Movie.cshtml.g.cs

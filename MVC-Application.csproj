@@ -10,4 +10,14 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.15" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\Movie\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Movie\" />
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\img\" />
+  </ItemGroup>
 </Project>
